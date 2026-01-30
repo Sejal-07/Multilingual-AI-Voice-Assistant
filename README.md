@@ -59,6 +59,8 @@ streamlit run app.py
 
    
 5. Interact with the AI assistant via voice input 🎤
+<img width="1442" height="884" alt="Screenshot 2026-01-30 222618" src="https://github.com/user-attachments/assets/41dd2752-fe01-49a9-8848-cac6de309fd9" />
+
 
 ## 📁 Project Structure
 ```
